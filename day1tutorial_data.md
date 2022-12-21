@@ -26,6 +26,8 @@ OR
 
 **In this tutorial, we are going to cover how to access and explore data already stored in a cloud storage.** If you want to learn how to upload your local data, go to [article name]. 
 
+## PREP - DISCUSSION: if we are going to teach how to overwrite aka clean up data, we need the data to be actually in the user's storage instead of merely providing a sample data set link. However, it means we are not cherry picking "access and explore the data already stored in the cloud". We will have to cover the datastore/asset creation.
+
 ## Go to Studio Notebook interface
 - Go to ml.azure.com
 - Click Notebook
